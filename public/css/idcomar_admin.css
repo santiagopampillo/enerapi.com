@@ -1,0 +1,99 @@
+.btn-delete{
+	background-color: #fff;
+	color: #dc3545;
+	font-size: 16px;
+}
+
+.btn-edit{
+	background-color: #fff;
+	color: #495057;
+	font-size: 16px;
+}
+
+.btn-ok{
+	background-color: #fff;
+	color: #32CD32;
+	font-size: 16px;
+}
+
+
+.btn-change_pass{
+    background-color: #fff;
+    color: #ffc107;
+    font-size: 16px;
+}
+
+.danger-color{
+    color: #dc3545!important;
+}
+
+.btn-view{
+	background-color: #fff;
+	color: #007bff;
+	font-size: 16px;
+}
+
+
+
+.nav-sidebar>.nav-item .nav-icon-gly{text-align:center;width:1.5rem;margin-right:.2rem}
+
+#landing-tbc-club-contamos{
+	margin-top: 10px;
+}
+
+.big_text{
+	font-size: 32px;
+}
+
+.big-checkbox{margin-top: 5px;}
+.big-checkbox  > input {width: 20px; height: 20px;}
+.big-checkbox > label {margin-left: 10px;font-size: 20px}
+
+.big_radio{
+    width: 1.2em;
+    height: 1.2em;
+    vertical-align: middle;
+}
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+@media (max-width: 768px) {
+    .card-header > .card-title{
+        max-width: 150px;
+    }
+
+    .big-table{
+        width: 800px;
+    }
+}
